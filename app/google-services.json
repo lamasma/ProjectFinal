@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "404281063707",
+    "firebase_url": "https://lama-saleh-191369-default-rtdb.firebaseio.com",
+    "project_id": "lama-saleh-191369",
+    "storage_bucket": "lama-saleh-191369.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404281063707:android:abf5a648efa9ab6c21bbbe",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404281063707-2vnrgl7es64apq95nltdtamhb55nlvia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIq32J3eSBnsnAo8mSgPplrXO-3S8wIZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404281063707-2vnrgl7es64apq95nltdtamhb55nlvia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
